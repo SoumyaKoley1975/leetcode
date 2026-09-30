@@ -1,4 +1,4 @@
-// leetcode 173 solution 
+// leetcode 173 solution new
 
 import java.util.Stack;
 
